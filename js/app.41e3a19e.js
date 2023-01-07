@@ -1314,7 +1314,7 @@
                             },
                             link: function () {
                                 return N(
-                                    "\n\n        &nbsp;<b><a class='ab' target='_blank' href='https://github.com/sarkermajid'>Github</a>,\n         <a class='ab' target='_blank' href='#'>StackOverFlow</a>\n         </b><br>\n        &nbsp;<b class='cd'>SocialMedia:</b>\n         <ul>\n             <li><a class='ef' target='_blank' href=\"https://www.linkedin.com/in/sarker-majid-7383591a6/\">LinkedIn</a></li>\n         <li><a class='ef' target='_blank' href=\"https://www.facebook.com/sarkermajid\">FaceBook</a></li>\n\n         </ul>\n\n         <br>\n      "
+                                    "\n\n        &nbsp;<b><a class='ab' target='_blank' href='https://github.com/sarkermajid'>Github</a>,\n         <a class='ab' target='_blank' href='https://stackoverflow.com/users/13860636/sarker-majid'>StackOverFlow</a>\n         </b><br>\n        &nbsp;<b class='cd'>SocialMedia:</b>\n         <ul>\n  <li><a class='ef' target='_blank' href=\"https://www.linkedin.com/in/sarker-majid-7383591a6/\">LinkedIn</a></li>\n  \n <li><a class='ef' target='_blank' href=\"https://twitter.com/SarkerMajid/\">Twitter</a></li>\n         <li><a class='ef' target='_blank' href=\"https://www.facebook.com/sarkermajid\">FaceBook</a></li>\n\n         </ul>\n\n         <br>\n      "
                                 );
                             },
                         },
